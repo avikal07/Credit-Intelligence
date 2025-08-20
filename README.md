@@ -1,4 +1,13 @@
-# Real-Time Explainable Credit Intelligence Platform
+<p align="center">
+  <img src="assets/pic1.png" alt="Credit Intelligence Logo" width="350" style="margin-bottom: 10px;"/>
+</p>
+
+<p align="center"><em>Real-Time Explainable Credit Intelligence Platform</em></p>
+
+---
+
+
+Visit the live application : [Credit Intelligence](https://credit-intelligence.vercel.app/)
 
 ## 🏛️ Project Overview
 
@@ -52,29 +61,11 @@
 
 ## 📊 Scoring Methodology
 
-### Core Financial Metrics (40% Weight)
-- **Liquidity Ratios**: Current ratio, quick ratio, cash ratio
-- **Leverage Ratios**: Debt-to-equity, debt-to-assets, interest coverage
-- **Profitability Metrics**: ROA, ROE, EBITDA margins, free cash flow yield
-- **Efficiency Ratios**: Asset turnover, inventory turnover, receivables turnover
+- **Core Financial Metrics** (40% weight)  
+- **Time-Series Analysis** (25% weight)  
+- **Market Sentiment** (20% weight)  
+- **Macro-Economic Factors** (15% weight)
 
-### Time-Series Analysis (25% Weight)
-- **Trend Detection**: 12-month rolling averages for key metrics
-- **Volatility Measures**: Standard deviation of earnings, revenue consistency
-- **Seasonal Adjustments**: Industry-specific cyclical patterns
-- **Mean Reversion**: Statistical models for temporary vs. permanent changes
-
-### Market Sentiment (20% Weight)
-- **News Sentiment Scoring**: Natural language processing of financial news
-- **Social Media Analysis**: Twitter/Reddit mention sentiment and frequency
-- **Analyst Ratings Changes**: Upgrades/downgrades from major investment banks
-- **Management Communication**: Earnings call transcript tone analysis
-
-### Macro-Economic Factors (15% Weight)
-- **Interest Rate Environment**: Federal funds rate, yield curve shape
-- **Industry Conditions**: Sector-specific economic indicators
-- **Market Volatility**: VIX levels, credit spreads, equity market conditions
-- **Regulatory Environment**: Policy changes affecting specific industries
 
 ## 🔍 Model Validation & Backtesting
 
@@ -133,21 +124,6 @@ VITE_BLOOMBERG_API_KEY=your_bloomberg_key
 VITE_NEWS_API_KEY=your_news_api_key
 ```
 
-## 📱 Application Structure
-
-### Navigation Flow
-1. **Home Screen** → Project overview and key metrics
-2. **Data Ingestion** → Transparency into data sources and pipeline status
-3. **Scoreboard** → Company-level credit scores and trends
-4. **Company Details** → Deep-dive analysis with explainable AI
-5. **Alerts Dashboard** → Real-time monitoring and notifications
-6. **Analytics Hub** → Sector analysis and portfolio insights
-
-### User Roles
-- **Credit Analysts**: Full access to all features and explanations
-- **Portfolio Managers**: Score monitoring and alert configuration
-- **Risk Officers**: Historical trends and stress test scenarios
-- **Compliance Teams**: Audit trails and model documentation
 
 ## 🔧 Development Features
 
@@ -184,7 +160,6 @@ All data sources are clearly attributed and validated:
 - Open-source economic data (FRED, World Bank)
 - News and social media APIs with proper attribution
 
-## 📞 Support & Documentation
 
 ### API Documentation
 - **Interactive API Explorer**: Swagger/OpenAPI 3.0 specification
@@ -198,36 +173,10 @@ All data sources are clearly attributed and validated:
 - **Training Programs**: Onboarding workshops and quarterly user training
 - **Documentation**: Comprehensive user guides and video tutorials
 
----
+## 🐛 Issues & Support
 
-## 🏆 Competitive Advantages
-
-1. **Speed**: 15-minute update cycles vs. quarterly traditional ratings
-2. **Transparency**: Complete explainability vs. black-box models
-3. **Coverage**: Real-time monitoring of 2,800+ companies
-4. **Accuracy**: 87% correlation with eventual rating changes
-5. **Cost**: 60% less expensive than traditional rating agency subscriptions
-
-## 📋 Roadmap
-
-### Q1 2025
-- [ ] ESG (Environmental, Social, Governance) factor integration
-- [ ] Municipal bond credit scoring expansion
-- [ ] Mobile application launch (iOS/Android)
-
-### Q2 2025
-- [ ] International market coverage (Europe, Asia)
-- [ ] Alternative data sources (satellite imagery, supply chain)
-- [ ] Advanced portfolio optimization tools
-
-### Q3 2025
-- [ ] AI-powered research report generation
-- [ ] Regulatory stress testing scenarios
-- [ ] Real-time peer benchmarking
+If you find a bug, have suggestions, or need help, please [open an issue](../../issues) in the repository.
 
 ---
 
-**Last Updated**: January 2025  
-**Version**: 2.1.0  
-**License**: Proprietary - Commercial Use Only  
-**Contact**: support@creditintelligence.com
+<p align="center">Made with ❤️ using React, TypeScript, Tailwind CSS, Recharts, and FastAPI</p>
