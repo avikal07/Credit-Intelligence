@@ -1,17 +1,41 @@
 <p align="center">
-  <img src="src/pic1.jpg" alt="Credit Intelligence Logo" width="350" style="margin-bottom: 10px;"/>
+  <img src="src/pic1.jpg" alt="Credit Intelligence Logo" width="350"/>
 </p>
 
-<p align="center"><em>Real-Time Explainable Credit Intelligence Platform</em></p>
+<p align="center">
+  <em><strong>Real-Time Explainable Credit Intelligence Platform</strong></em>
+</p>
+
+<p align="center">
+  🔗 <a href="https://credit-intelligence.vercel.app/">Live Demo</a>
+</p>
 
 ---
 
+## 📑 Table of Contents
+- [🏛️ Project Overview](#project-overview)
+- [🎯 Key Features](#key-features)
+- [🏗️ Technical Architecture](#technical-architecture)
+- [📊 Scoring Methodology](#scoring-methodology)
+- [🔍 Model Validation & Backtesting](#model-validation--backtesting)
+- [📈 Key Performance Indicators](#key-performance-indicators)
+- [🚀 Getting Started](#getting-started)
+- [🔧 Development Features](#development-features)
+- [📊 Data Governance](#data-governance)
+- [🐛 Issues & Support](#issues--support)
 
-Visit the live application : [Credit Intelligence](https://credit-intelligence.vercel.app/)
+
+
 
 ## 🏛️ Project Overview
 
-**Credit Intelligence: Real-time Explainable Ratings** is an advanced financial technology platform that provides transparent, real-time creditworthiness assessments for corporate issuers. Unlike traditional black-box credit rating models, our platform offers complete explainability, showing exactly why each credit score was assigned and how it changes over time.
+**Credit Intelligence: Real-Time Explainable Ratings** is an advanced financial technology platform that delivers transparent, real-time creditworthiness assessments for corporate issuers.  
+
+Unlike traditional black-box credit rating models, our platform provides **full explainability**, clearly showing:
+- ✅ Why each credit score was assigned  
+- 📈 How the score evolves over time  
+
+This empowers stakeholders with **trust, clarity, and actionable insights** in financial decision-making.
 
 ## 🎯 Key Features
 
