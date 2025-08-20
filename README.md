@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pic1.png" alt="Credit Intelligence Logo" width="350" style="margin-bottom: 10px;"/>
+  <img src="src/pic1.jpg" alt="Credit Intelligence Logo" width="350" style="margin-bottom: 10px;"/>
 </p>
 
 <p align="center"><em>Real-Time Explainable Credit Intelligence Platform</em></p>
