@@ -13,17 +13,22 @@
 ---
 
 ## 📑 Table of Contents
-- [🏛️ Project Overview](#-project-overview)
-- [🎯 Key Features](#-key-features)
-- [🏗️ Technical Architecture](#-technical-architecture)
-- [📊 Scoring Methodology](#-scoring-methodology)
-- [🔍 Model Validation & Backtesting](#-model-validation--backtesting)
-- [📈 Key Performance Indicators](#-key-performance-indicators)
-- [🚀 Getting Started](#-getting-started)
-- [🔧 Development Features](#-development-features)
-- [📊 Data Governance](#-data-governance)
-- [🐛 Issues & Support](#-issues--support)
+- [Project Overview](#-project-overview)
+- [Key Features](#-key-features)
+- [Technical Architecture](#-technical-architecture)
+- [Scoring Methodology](#-scoring-methodology)
+- [Model Validation & Backtesting](#-model-validation--backtesting)
+- [Key Performance Indicators](#-key-performance-indicators)
+- [Getting Started](#-getting-started)
+- [Development Features](#-development-features)
+- [Data Governance](#-data-governance)
+- [Issues & Support](#-issues--support)
+
+---
+
+
 ## 🏛️ Project Overview
+
 
 **Credit Intelligence: Real-Time Explainable Ratings** is an advanced financial technology platform that delivers transparent, real-time creditworthiness assessments for corporate issuers.  
 
